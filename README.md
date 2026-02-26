@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Shahin!
 
-🎓 I'm an undergraduate student pursuing **Computer Science and Engineering** at **Daffodil International University**.  
+🎓 I graduated with a degree in **Computer Science and Engineering** from **Daffodil International University**.  
 💡 *Passionate about using **machine learning** to merge **Computer Science and Engineering** for building intelligent, real-world solutions.*
 
 
