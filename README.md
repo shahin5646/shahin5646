@@ -1,64 +1,69 @@
 <!-- GitHub Profile README -->
+<div align="center">
 
-# 👋 Hi, I'm Shahin!
+# Shahin
 
-🎓 I graduated with a degree in **Computer Science and Engineering** from **Daffodil International University**.  
-💡 *Passionate about using **machine learning** to merge **Computer Science and Engineering** for building intelligent, real-world solutions.*
+**Computer Science & Engineering Graduate | Aspiring AI Engineer**
 
+Machine Learning · Deep Learning · Generative AI · Agentic AI · Python
 
----
+[![Email](https://img.shields.io/badge/Email-shahinok1912%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shahinok1912@gmail.com)
 
-## 👨‍💻 About Me
-
-- 🔍 Currently focused on **Machine Learning** — working with supervised & unsupervised models, NLP, and neural networks.
-- 🚀 Participating in the **#daysOfML** challenge to build consistent ML habits and share learning.
-- 💻 Built multiple **web development projects** as part of academic coursework using HTML, CSS, JavaScript, and backend tools.
-- 📊 Proficient in **data visualization** and analysis using `Matplotlib`, `Seaborn`, and `Pandas`.
-- 📱 Actively building cross-platform apps using **Flutter**, integrated with **Firebase** for backend services.
-- 🧠 Committed to **continuous learning** and passionate about **open-source collaboration**.
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## About
 
-### 🌐 Languages & Tools
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+Computer Science & Engineering graduate from Daffodil International University, building a career in AI engineering. Focused on machine learning fundamentals, data-driven problem solving, and applied Generative AI — including LLM-based tools, embeddings, and retrieval-augmented generation (RAG) concepts.
 
-### 📊 Data Science & ML
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+Comfortable working across the ML workflow: data preprocessing, feature engineering, model building and evaluation, with an emphasis on clean, well-documented code and collaborative, cross-functional work.
 
-### 🌐 Web & Mobile Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+## Focus Areas
 
-### 🛠 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- **Machine Learning** — supervised & unsupervised models, NLP, neural networks
+- **Generative AI** — LLM concepts, prompt engineering, RAG and embeddings fundamentals
+- **Data Analysis** — preprocessing, feature engineering, visualization
+
+Currently building consistency through the **#daysOfML** challenge, with ongoing personal ML projects.
+
+## Tech Stack
+
+###  Core
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![DSA](https://img.shields.io/badge/DATA%20STRUCTURES%20%26%20ALGORITHMS-2F3E46?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-2F3E46?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL%20%2F%20NoSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-2F3E46?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/PROBABILITY%20%26%20STATISTICS-2F3E46?style=for-the-badge)
+![Linear Algebra](https://img.shields.io/badge/LINEAR%20ALGEBRA-2F3E46?style=for-the-badge)
+
+### Data Science & ML
+![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/SEABORN-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Growth Areas
+![GenAI](https://img.shields.io/badge/GENERATIVE%20AI%20%2F%20LLMs-6A0DAD?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/PROMPT%20ENGINEERING-6A0DAD?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/EMBEDDINGS%20%26%20VECTOR%20DBs-6A0DAD?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HUGGING%20FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+###  Tools & Platforms
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
----
 
-## 📈 GitHub Stats
+## Contact
 
-![Shahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahin5646&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+Open to internships, collaboration, and roles in AI/ML engineering.
 
----
-
-## 📫 How to Reach Me
-
-- ✉️ Email: `shahinok1912@gmail.com`
-
----
-
-*Thanks for visiting my profile! I'm open to internships, collaboration, and exciting ML or software projects.*
+- Email: [shahinok1912@gmail.com](mailto:shahinok1912@gmail.com)
+- GitHub: [github.com/shahin5646](https://github.com/shahin5646)
